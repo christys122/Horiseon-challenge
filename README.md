@@ -9,4 +9,9 @@ Changes made -
 -added alt text to first 3 images
 -updated css selector from class to id and added missing class to repair nav for Search Engine Optimization
 -added missing h2 for Search Engine Optimization
--
+---   GIT COMMIT SAVE  ---
+-changed header div to nav in index and css to indicate navigation section
+-changed last div to section 
+Added empty alt text for icon graphics
+-changed footer div to footer element and removed unneeded class "footer"
+---   GIT COMMIT SAVE ---
