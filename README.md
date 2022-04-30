@@ -15,3 +15,7 @@ Changes made -
 Added empty alt text for icon graphics
 -changed footer div to footer element and removed unneeded class "footer"
 ---   GIT COMMIT SAVE ---
+-combined benefit classes to "benefit-info" in html and css 
+-combined img classes in html and css
+-renamed main and aside divs for SEO
+--- GIT COMMIT SAVE ---
