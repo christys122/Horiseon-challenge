@@ -19,3 +19,9 @@ Added empty alt text for icon graphics
 -combined img classes in html and css
 -renamed main and aside divs for SEO
 --- GIT COMMIT SAVE ---
+-Added descriptive title
+-corrected h3 after h2 
+-realigned css flow to match html and webpage
+-added descriptive comments to css
+-added descriptive comments to html
+--- GIT COMMIT SAVE---
