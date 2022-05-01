@@ -1,9 +1,12 @@
 # Horiseon-challenge
-Bootcamp Module 1 Challenge
+## Refractor for SEO and Accessibility
 
-In this challenge I refractored the existing website to make it more accessible and to improve SEO.  I also utilized semanitc HTML for both future developers and browser usage.  Below is a timeline of all of the changes made and the stamp for the .git commits as I moved through the process.
+In this challenge I refractored the existing Horiseon website to make it more accessible and to improve SEO.  I also utilized semanitc HTML for both future developers and browser usage.  I cleaned up redundancies, corrected the flow, and created comments to facilitate future updates. All changes were made without affecting the existing website.  Below is a timeline of all of the changes made and the stamp for the .git commits as I moved through the process.
 
-Changes made - 
+This project can be installed by cloning it from git hub: gh repo clone christys122/Horiseon-challenge
+
+
+## Changes made - 
 -changed title to name of Company
 -changed first div to header
 -added alt text to first 3 images
