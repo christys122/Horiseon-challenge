@@ -15,25 +15,25 @@ Website: https://christys122.github.io/Horiseon-challenge/
 * updated css selector from class to id and added missing class to repair nav for Search Engine Optimization
 * added missing h2 for Search Engine Optimization
 
-###   GIT COMMIT SAVE  ---
+###   GIT COMMIT   ---
 
 * changed header div to nav in index and css to indicate navigation section
 * changed last div to section 
 * Added empty alt text for icon graphics
 * changed footer div to footer element and removed unneeded class "footer"
 
-###   GIT COMMIT SAVE  ---
+###   GIT COMMIT   ---
 
 * combined benefit classes to "benefit-info" in html and css 
 * combined img classes in html and css
 * renamed main and aside divs for SEO
-###   GIT COMMIT SAVE  ---
+###   GIT COMMIT   ---
 * Added descriptive title
 * corrected h3 after h2 
 * realigned css flow to match html and webpage
 * added descriptive comments to css
 * added descriptive comments to html
-### GIT COMMIT SAVE   ---
+### GIT COMMIT    ---
 
 ## Contribution
 Maria Salazar 🦀
